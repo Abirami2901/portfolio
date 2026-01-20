@@ -154,3 +154,16 @@ footer {
     padding: 50px 20px;
   }
 }
+
+.skill-subtitle {
+  margin: 30px 0 15px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+/* Slightly lighter style for "Familiar With" */
+.skills.familiar li {
+  background: #eef2ff;
+  color: #1e3a8a;
+}
