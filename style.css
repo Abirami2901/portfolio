@@ -31,6 +31,10 @@ body {
 
 .links {
   margin-top: 20px;
+  display:flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 
 .links a {
@@ -191,4 +195,16 @@ footer {
 
 .links a:last-child:hover {
   background: #16a34a;
+}
+
+@media (max-width: 480px) {
+  .links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .links a {
+    width: 85%;
+    text-align: center;
+  }
 }
