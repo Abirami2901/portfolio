@@ -208,3 +208,23 @@ footer {
     text-align: center;
   }
 }
+
+/* Custom bullets ONLY for Experience section */
+.experience ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.experience ul li {
+  position: relative;
+  padding-left: 22px;
+  margin-bottom: 8px;
+}
+
+.experience ul li::before {
+  content: "→"; /* or ✓ if you chose checkmarks */
+  position: absolute;
+  left: 0;
+  color: #2563eb;
+  font-weight: 600;
+}
