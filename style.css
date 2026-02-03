@@ -162,12 +162,14 @@ section p {
 
 /* FOOTER */
 footer {
-  background: #111827;
-  color: #d1d5db;
+  background: #DDD6FE;
+  color: #1f2933;
   text-align: center;
   padding: 25px;
   font-size: 0.9rem;
+  border-top: 1px solid #C4B5FD;
 }
+
 
 /* RESPONSIVE */
 @media (max-width: 768px) {

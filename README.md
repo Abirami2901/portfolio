@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal portfolio website, built to showcase my projects, skills, and experience as a fresher in **Data Analytics, Software Development, and Machine Learning**.
 
-🔗 **Live Portfolio:** https://abirami-portfolio.netlify.app  
+🔗 **Live Portfolio:** https://abirami-venkatesan-portfolio.netlify.app/  
 🔗 **GitHub Profile:** https://github.com/Abirami2901  
 🔗 **LinkedIn:** http://www.linkedin.com/in/abirami-v-3513b0290  
 
